@@ -2,12 +2,17 @@ _repo: Sheared-cream-o-wit-A-classified-compilation-of-the-best-wit-and-humor_69
 _version: 0.1.0
 alternative_title: 'Sheared cream o'' wit: an arrangement of the world''s choicest
   wit and humor'
+covers:
+- cover_type: archival
+  image_path: 69216-h/images/cover.jpg
 creator:
   author:
     agent_name: Mittler, Carl J.
     gutenberg_agent_id: '55169'
     url: http://www.gutenberg.org/2009/agents/55169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69216#Sheared-cream-o-wit-A-classified-compilation-of-the-best-wit-and-humor
 gutenberg_issued: '2022-10-23'
 identifiers:
   gutenberg: '69216'
